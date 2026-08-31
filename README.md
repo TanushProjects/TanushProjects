@@ -13,11 +13,21 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
 
 <div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=TanushProjects&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge)
-  ![Followers](https://img.shields.io/github/followers/TanushProjects?label=FOLLOWERS&style=for-the-badge&color=ff00ff)
-  ![Stars](https://img.shields.io/github/stars/TanushProjects?label=TOTAL+STARS&style=for-the-badge&color=00f7ff)
+  <!-- Dynamic Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=TANUSH&fontSize=80&fontColor=fff&animation=fadeIn" width="100%" />
 
+  <!-- Tech Stack Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  </p>
+
+  <!-- GitHub Stats -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=TanushProjects&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushProjects&layout=compact&theme=tokyonight&hide_border=true" height="150" />
+  </p>
 </div>
 
 <br>
