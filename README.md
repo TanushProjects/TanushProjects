@@ -156,7 +156,7 @@ Built and launched a marketplace for students to buy, sell, and trade on campus,
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<img src="(https://raw.githubusercontent.com/TanushProjects/TanushProjects/output/github-contribution-grid-snake-dark.svg)"/>
 <sub><i>(Snake auto-generates once the workflow runs on your repo — setup notes below ⬇️)</i></sub>
 </div>
 
