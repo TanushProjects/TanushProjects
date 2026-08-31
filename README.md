@@ -139,29 +139,6 @@ Built and launched a marketplace for students to buy, sell, and trade on campus,
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
 
-## 📊 The Numbers
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=TanushProjects&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanushProjects&theme=synthwave&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushProjects&layout=compact&theme=synthwave&hide_border=true" height="170"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushProjects&theme=synthwave&hide_border=true" width="60%" height="170"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%"/>
-<sub><i>(Snake auto-generates once the workflow runs on your repo — setup notes below ⬇️)</i></sub>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
-
 ## 🎯 Mission Board
 
 - 🔬 Push deep learning depth — real benchmarks, not buzzwords
