@@ -1,123 +1,194 @@
-<h1 align="center">
-  Hey, I'm Tanush 👋
-</h1>
+<div align="center">
 
-<h3 align="center">AI/ML Engineer · Full-Stack Dev · Building things that shouldn't work but do</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=TANUSH&fontSize=90&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20Hackathon%20Winner&descAlignY=55&descSize=20"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=B.Tech+CS+(AI+%26+ML)+%40+KIET;Hackathon+Winner+-+DropHack+%2726;Building+Multi-Agent+AI+Systems;Turning+Coffee+into+Code+since+2023;Open+to+Global+Internships+2027&font=Fira%20Code&center=true&width=600&height=45&color=00F7FF&vCenter=true&size=22&duration=3000&pause=800" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com/?lines=sudo+rm+-rf+your_excuses;git+commit+-m+%22it+works%2C+dont+touch+it%22;Multi-Agent+AI+Systems+Enjoyer;DropHack+%2726+Champion+%F0%9F%8F%86;Fueled+by+chai+%E2%98%95+and+stack+traces;Currently+debugging+life.py&font=Fira%20Code&center=true&width=700&height=50&color=39FF14&vCenter=true&size=24&duration=2500&pause=700&background=00000000" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanushProjects&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/TanushProjects?label=Follow&style=social" alt="followers" />
-</p>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 
----
+</div>
 
-### ⚡ About Me
+<br>
 
-```yaml
-name: Tanush
-role: AI/ML Engineer | Full-Stack Developer
-degree: B.Tech Computer Science (AI & ML), KIET Group of Institutions
-location: Delhi-NCR, India
-current_focus: Deep Learning depth + shipping fast, weird, useful things
-looking_for: Summer 2027 internships (research + engineering)
-fun_fact: Built a multi-agent ransomware defense system in one hackathon
-          and walked away with the win
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=TanushProjects&label=PROFILE+VIEWS&color=39FF14&style=for-the-badge)
+  ![Followers](https://img.shields.io/github/followers/TanushProjects?label=FOLLOWERS&style=for-the-badge&color=ff00ff)
+  ![Stars](https://img.shields.io/github/stars/TanushProjects?label=TOTAL+STARS&style=for-the-badge&color=00f7ff)
+
+</div>
+
+<br>
+
+## 👨‍💻 `whoami`
+
+```python
+class Tanush:
+    def __init__(self):
+        self.role         = ["AI/ML Engineer", "Full-Stack Dev", "Chaos Coordinator"]
+        self.degree       = "B.Tech CS (AI & ML) @ KIET Group of Institutions"
+        self.location     = "Delhi-NCR, India 🇮🇳"
+        self.achievement  = "🏆 Winner — DropHack '26"
+        self.status       = "Hunting Summer 2027 internships"
+        self.motto        = "Ship it. Fix it later. Ship it again."
+
+    def current_focus(self):
+        return [
+            "Deep Learning w/ real benchmarks, not vibes",
+            "Multi-agent AI systems that actually do things",
+            "Turning 3am ideas into working demos"
+        ]
+
+me = Tanush()
+print(f"⚡ {me.status} ⚡")
 ```
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
 
-### 🏆 Flagship Builds
+## 🔥 Flagship Builds
+
+<div align="center">
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🛡️ Sentinel Swarm** — *DropHack '26 Winner*
-Multi-agent AI ransomware defense system. Autonomous agents detect, isolate, and neutralize threats in real time.
-`Python` `uAgents` `FastAPI` `WebSocket` `React` `Vite` `TypeScript` `Agentverse` `ASI:One`
+### 🛡️ Sentinel Swarm
+**🥇 DropHack '26 Winner**
+
+Multi-agent AI ransomware defense system — autonomous agents that detect, isolate, and neutralize threats in real time, built solo end-to-end in a single hackathon sprint.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+`uAgents` `Agentverse` `ASI:One` `WebSocket`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🌆 CitySphere** — *Smart City Dashboard*
-Real-time full-stack platform for urban data, with AI-powered insights via Gemini tool-calling.
-`React 19` `TypeScript` `Fastify` `MongoDB Atlas` `Gemini AI` `JWT` `Zustand`
+### 🌆 CitySphere
+**Real-Time Smart City Dashboard**
+
+Full-stack platform for live urban data with AI-powered insight generation via Gemini tool-calling. Built with a teammate, shipped fully production-grade.
+
+![React](https://img.shields.io/badge/-React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Gemini](https://img.shields.io/badge/-Gemini_AI-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+
+`Fastify` `JWT` `Zustand` `Framer Motion`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🌩️ TropoStack** — *Atmospheric Science Toolkit*
-Physics-based toolkit for modeling and visualizing atmospheric data.
-`Python` `Flask` `Plotly`
+### 🌩️ TropoStack
+**Physics-Based Atmospheric Toolkit**
+
+Independent project modeling and visualizing real atmospheric science data.
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-**🛒 Campus Trade** — *P2P Campus Marketplace*
-Founded and built a marketplace for students to buy/sell/trade on campus.
-`Flask` `JavaScript`
+### 🛒 Campus Trade
+**P2P Campus Marketplace — Founder**
+
+Built and launched a marketplace for students to buy, sell, and trade on campus, from zero to live users.
+
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 </td>
 </tr>
 </table>
 
----
+</div>
 
-### 🧠 Tech Arsenal
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,flask,fastapi,mongodb,nodejs,git,github,vscode,tailwind,figma&theme=dark" />
-</p>
+## ⚙️ Tech Arsenal
 
-<img align="right" width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushProjects&layout=compact&theme=tokyonight&hide_border=true" />
+<div align="center">
 
-**AI/ML:** Python · NumPy/Pandas · Scikit-learn · Neural Nets (leveling up in Deep Learning + LoRA fine-tuning)
-**Backend:** FastAPI · Flask · Node.js · Fastify
-**Frontend:** React · TypeScript · Vite · Tailwind
-**Agentic Systems:** uAgents · Agentverse · ASI:One
-**Databases:** MongoDB Atlas
-**Currently exploring:** Fine-tuning LLMs, Computer Vision, multi-agent orchestration
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,flask,fastapi,mongodb,nodejs,git,github,vscode,tailwind,figma,vite&theme=dark&perline=8" />
 
----
+</div>
 
-### 📊 GitHub Stats
+<br>
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=TanushProjects&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=TanushProjects&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
+<table>
+<tr>
+<td align="center" width="20%"><b>🧠 AI / ML</b><br><sub>Python · Scikit-learn · Neural Nets · LoRA fine-tuning (in progress)</sub></td>
+<td align="center" width="20%"><b>🔗 Backend</b><br><sub>FastAPI · Flask · Node.js · Fastify</sub></td>
+<td align="center" width="20%"><b>🎨 Frontend</b><br><sub>React · TypeScript · Vite · Tailwind</sub></td>
+<td align="center" width="20%"><b>🤖 Agentic</b><br><sub>uAgents · Agentverse · ASI:One</sub></td>
+<td align="center" width="20%"><b>🗄️ Data</b><br><sub>MongoDB Atlas · Zustand</sub></td>
+</tr>
+</table>
+</div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushProjects&theme=tokyo-night&hide_border=true" width="90%" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
 
----
+## 📊 The Numbers
 
-### 🎯 What I'm Chasing Right Now
+<div align="center">
 
-- 🔬 Getting genuine deep learning depth — benchmarks, not buzzwords
-- 🌍 Global internship / research roles for Summer 2027
-- 🤖 Shipping more multi-agent systems after Sentinel Swarm's win
-- 📈 Getting one project past "cool demo" into "someone else actually uses this"
+<img src="https://github-readme-stats.vercel.app/api?username=TanushProjects&show_icons=true&theme=synthwave&hide_border=true&count_private=true&include_all_commits=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TanushProjects&theme=synthwave&hide_border=true" height="170"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanushProjects&layout=compact&theme=synthwave&hide_border=true" height="170"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanushProjects&theme=synthwave&hide_border=true" width="60%" height="170"/>
 
-### 📫 Let's Connect
+</div>
 
-<p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0e75b6&height=100&section=footer" width="100%"/>
-</p>
+## 🐍 Contribution Snake
 
-<p align="center"><i>⭐ If any of my repos helped you, drop a star — it fuels the next 3am build.</i></p>
+<div align="center">
+<img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="90%"/>
+<sub><i>(Snake auto-generates once the workflow runs on your repo — setup notes below ⬇️)</i></sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
+
+## 🎯 Mission Board
+
+- 🔬 Push deep learning depth — real benchmarks, not buzzwords
+- 🌍 Land a Summer 2027 global internship / research role
+- 🤖 Ship another multi-agent system that tops Sentinel Swarm
+- 📈 Get one project past "cool demo" into "people actually use this daily"
+- ☕ Maintain caffeine-to-commit ratio at sustainable levels
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=2&width=1000" />
+
+<div align="center">
+
+## 📡 Transmit A Signal
+
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/yourhandle"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://instagram.com/yourhandle"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+<br><br>
+
+> *"Talk is cheap. Show me the repo."* — probably Linus, definitely me at 3am
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
+
+<b>⭐ Star a repo, break a build, open a PR — I don't bite, my code might.</b>
+
+</div>
